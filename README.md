@@ -18,5 +18,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Beeejs&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Beeejs&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beeejs&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-https://visitcount.itsvg.in/api?id=Beeejs&icon=1&color=6)](https://visitcount.itsvg.in)
