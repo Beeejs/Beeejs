@@ -5,7 +5,7 @@
 
 - 💡 Me gusta explorar nuevas **tecnologías** y desarrollar **soluciones** de software.<br><br>
 - 🎓 Actualmente estoy estudiando **Analista en Sistemas** en Da Vinci.<br><br>
-- ⚡ En ms tiempo libre me gusta **Codear y jugar el Fútbol**<br><br>
+- ⚡ En mis tiempo libre me gusta **Codear y jugar el Fútbol**<br><br>
 - 📫 ¡Puedes enviarme un correo electrónico a **facundomarconi04@gmail.com** ! Intentaré responder tan pronto como pueda.
 
 ##  💻 Lenguajes y Tecnologías:
